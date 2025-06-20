@@ -2,7 +2,8 @@
 
 A sleek, responsive calculator with **memory functions (M+, MR)** and **keyboard support**, built with HTML, CSS, and JavaScript.  
 
-![Calculator Demo](images/calculator_mobile_image.png)
+<!-- ![Calculator Demo](images/calculator_mobile_image.png) -->
+<img src="images/calculator_mobile_image.png" alt="Calculator Demo" width="350" />
 
 [![Live Demo](https://img.shields.io/badge/demo-live-green)](https://atsuchak.github.io/SimpleCalculator/)  
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)  
