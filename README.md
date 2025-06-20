@@ -65,7 +65,7 @@ Found a bug? Want a new feature?
 ---
 
 ## 📜 License  
-MIT © [Your Name](https://github.com/atsuchak)  
+MIT © [Ahnaf Tajwar Suchak](https://github.com/atsuchak)  
 
 ---
 
