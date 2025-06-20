@@ -1,48 +1,71 @@
-Calculator App
-Hey! This is a sleek, browser-based calculator built with HTML, CSS, and JavaScript. It handles basic math like addition, subtraction, multiplication, division, and percentages, with handy memory features (M+ and MR) and keyboard support. It’s got a modern dark theme with smooth animations and works great on both desktop and mobile.
-What’s This About?
-This calculator is a simple tool for quick calculations right in your browser. It’s user-friendly, with a clean design and support for both mouse clicks and keyboard input. Perfect for everyday math needs!
-Features
+# 🧮 Calculator Web App  
 
-Basic math: Add, subtract, multiply, divide, and calculate percentages.
-Memory functions: Save a number with M+ and recall it with MR.
-Keyboard support: Use number keys, operators, Enter, Backspace, C, M, or R.
-Responsive design: Looks good on phones and desktops.
-Stylish UI: Dark theme with a gradient background and hover effects.
+A sleek, responsive calculator with **memory functions (M+, MR)** and **keyboard support**, built with HTML, CSS, and JavaScript.  
 
-Tech Used
+![Calculator Demo](images/calculator_mobile_image.png)
 
-HTML for the layout.
-CSS for the dark theme and responsive design.
-JavaScript for calculations and keyboard support.
+[![Live Demo](https://img.shields.io/badge/demo-live-green)](https://atsuchak.github.io/SimpleCalculator/)  
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)  
 
-How to Set It Up
-Setting this up is super easy:
+---
 
-Clone the repo:git clone https://github.com/your-username/calculator-app.git
+## ✨ Features  
+- **Basic Operations**: `+`, `-`, `*`, `/`, `%`  
+- **Memory Functions**: Store values (`M+`) and recall (`MR`)  
+- **Keyboard Support**: Type directly or use `Enter`/`Backspace`  
+- **Responsive Design**: Works on mobile and desktop  
+- **Modern UI**: Dark theme with smooth animations  
 
+---
 
-Enter the project folder:cd calculator-app
+## 🚀 Quick Start  
+1. **Clone the repo**:  
+   ```bash
+   git clone https://github.com/atsuchak/SimpleCalculator.git
+   ```
+2. **Open `index.html`** in your browser.  
 
+No dependencies needed!  
 
-Open index.html in your browser:
-Use a live server (like VS Code’s Live Server) for the best experience, or
-Double-click index.html to open it.
+---
 
+## ⌨️ Usage  
+- **Click buttons** or **use keyboard**:  
+  - `C`: Clear  
+  - `M`: Memory Store (`M+`)  
+  - `R`: Memory Recall (`MR`)  
+  - `Enter`: Calculate (`=`)  
 
+---
 
-No dependencies needed—it’s all vanilla HTML, CSS, and JavaScript!
-How to Use It
+## 🛠️ Tech Stack  
+- **Frontend**: HTML5, CSS3, JavaScript  
+- **Styling**: CSS Grid, Flexbox, gradients  
+- **Tools**: Vanilla JS (no frameworks)  
 
-Click buttons or type numbers and operators (+, -, *, /, %).
-Press = or Enter to see the result.
-Clear the display with C or the C key.
-Save to memory with M+ or M, recall with MR or R.
-Delete the last character with Backspace.
-Example: For 5 + 3, click 5, +, 3, then = (or type 5+3 and hit Enter). Result: 8.
+---
 
+## 📸 Screenshot  
+![Calculator Screenshot](images/calculator_mobile_image.png)  
 
-Get in Touch
-Made by: Ahnaf Tajwar Suchak
-GitHub: github.com/atsuchak
+---
 
+## 🤝 Contributing  
+Found a bug? Want a new feature?  
+1. Fork the repo.  
+2. Create a branch (`git checkout -b feature/your-feature`).  
+3. Commit changes (`git commit -m 'Add feature'`).  
+4. Push to the branch (`git push origin feature/your-feature`).  
+5. Open a **Pull Request**.  
+
+---
+
+## 📜 License  
+MIT © [Your Name](https://github.com/atsuchak)  
+
+---
+
+## 🙌 Credits  
+- **Icons**: [Shields.io](https://shields.io)  
+- **Font**: Segoe UI (system default)  
+```
