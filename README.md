@@ -1,4 +1,3 @@
-```markdown
 # 🧮 Calculator Web App  
 
 A sleek, responsive calculator with **memory functions (M+, MR)** and **keyboard support**, built with HTML, CSS, and JavaScript.  
